@@ -8,3 +8,6 @@ About the game:
   over to the next solid object. You can't change direction during sliding. You need to use objects in levels to get where you
   need to go.
 - Second level has multiple teleports that you need to use to find baby penguins.
+
+I've done everything myself: design, scripts, audio, graphics, animation etc. and except for coding, this was my very first time
+for each of them and overall my very first game project. Next my goal is to develop this into a mobile game.
